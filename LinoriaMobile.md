@@ -1,6 +1,6 @@
 # Linoria Lib -But On Mobile-
 
-made by the one and only [**jamkles**] skid as much as you need
+credits to GreatLinoria goat
 
 ### Library loadstring
 
